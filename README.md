@@ -19,7 +19,7 @@ Next start R and run package:
 
   `library(AutoPoly)`
 
-Now your set to go. Please look at the Vignette for examples on how to run data sets through the package.
+Now your set to go. Please look at the Vignette file "AutoPolyIntro_0.1.0.pdf" for examples on how to run data sets through the package.
 
 # News/updates
 
