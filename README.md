@@ -12,9 +12,11 @@ To install, one approach is from the command line:
   `R CMD INSTALL AutoPoly_0.2.0.tar.gz`
 
 Or you can start R and download from R cran (if updated):
+
   `install.packages('AutoPoly')`
 
 Next start R and run package:
+
   `library(AutoPoly)`
 
 Now your set to go. Please look at the Vignette for examples on how to run data sets through the package.
